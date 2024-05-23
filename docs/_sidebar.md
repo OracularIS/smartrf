@@ -1,9 +1,9 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](./readme.md)
-  - [RF PLUS PLUS Overview](#RF PLUS PLUS Overview)
-  - [Main Features of RF PLUS PLUS](#Main-Features-of-RF-PLUS-PLUS)
-  - [Value Proposition of RF PLUS PLUS](#Value-Proposition-of-RF-PLUS-PLUS)
+  - [RF++ Overview](#Value-Proposition-of-RF++)
+  - [Main Features of RF++](#Main-Features-of-RF++)
+  - [Value Proposition of RF++](#Value-Proposition-of-RF++)
 - [Getting RF++](./getting_rf.md)
   - [How to download from Playstore](#how-to-download-from-playstore)
   - [Direct QR Code](#direct-qr-code)
