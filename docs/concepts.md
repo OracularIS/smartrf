@@ -28,4 +28,4 @@
   - Below script run to create device IDs ranging from SM00001 to SM05000. This pre-creation of device IDs ensures that the server task does not need to be restarted frequently, streamlining the registration process.
 
 - **Device registration against the environment**
-  - Once the devices are created, they are registered against the desired environment. This registration process ensures that each device is properly configured to interact with the RF PLUS PLUS application and the underlying systems.
+  - Once the devices are created, they are registered against the desired environment. This registration process ensures that each device is properly configured to interact with the Smart RF Plus application and the underlying systems.

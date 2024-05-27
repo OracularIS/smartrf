@@ -16,17 +16,17 @@
 4. **Open the App**
    - Once installed, tap "Open" to launch the Smart RF Plus app.
    - You can also find the app icon on your home screen or in the app drawer.
-## Direct Download Link from Smart IS Website
+## Direct Download Link from OR Smart IS Website
 
 In addition to the Play Store, you can also download the Smart RF Plus app directly from the Smart IS website. Follow these steps:
 
 1. **Scan the QR Code**
    - Scan the following QR code to be directed to the Smart-is Smart RF Plus download page:
 
-   ![Smart IS QR Code](URL-to-QR-Code-Image)
+   ![Smart IS QR Code](../.attachments\appqrcode.png)
 
-2. **Visit the Smart IS Website**
-   - If you prefer, you can manually go to [Smart IS Website](https://www.smart-is.com/what-we-do/smart-product/rf/).
+2. **Visit the Smart-IS Website**
+   - You can  go to [Smart IS Website](https://www.smart-is.com/what-we-do/smart-product/rf/).
 
 4. **Download the App**
    - Click on the direct download link to download the Smart RF Plus APK file.
