@@ -1,57 +1,57 @@
-# RF PLUS PLUS Overview
+# Overview
 
 ## Introduction
 
-RF PLUS PLUS is a comprehensive RF solution designed to enhance JDA/Blue Yonder (BY) WMS implementations. This application is tailored to optimize the functionality of physical devices used on the warehouse floor, facilitating seamless execution of various warehouse operations. Developed by Smart IS, the RF PLUS PLUS app integrates smoothly with the standard JDA/BY solution, offering support for both delivered and custom RF screens without requiring additional work.
+Smart RF Plus is a comprehensive RF solution designed to enhance JDA/Blue Yonder (BY) WMS implementations. This application is tailored to optimize the functionality of physical devices used on the warehouse floor, facilitating seamless execution of various warehouse operations. Developed by Smart IS, the Smart RF Plus app integrates smoothly with the standard JDA/BY solution, offering support for both delivered and custom RF screens without requiring additional work.
 
-## Main Features of RF PLUS PLUS
+## Main Features
 
 - **RF Screen Functionality:**
-RF PLUS PLUS enhances the standard RF screens by rendering function keys as buttons. This improves user interaction and makes the interface more intuitive and user-friendly. The streamlined design ensures that warehouse operations can be performed more efficiently, reducing the learning curve for new users.
+Smart RF Plus enhances the standard RF screens by rendering function keys as buttons. This improves user interaction and makes the interface more intuitive and user-friendly. The streamlined design ensures that warehouse operations can be performed more efficiently, reducing the learning curve for new users.
 
 - **Multi-Tab Layout:**
 The application supports a multi-tab layout, allowing users to access additional information from BY sources or external databases. This feature can include multimedia objects such as images, providing a richer and more informative user experience. The multi-tab layout helps users quickly navigate between different types of data without losing context.
 
 - **Device Compatibility:**
-RF PLUS PLUS offers out-of-the-box compatibility with device-level extensions like cameras and other sensors. This ensures that the app can leverage the full capabilities of modern Android devices, enhancing its functionality and making it versatile for various warehouse tasks. The compatibility with multiple devices reduces the need for additional hardware investments.
+Smart RF Plus offers out-of-the-box compatibility with device-level extensions like cameras and other sensors. This ensures that the app can leverage the full capabilities of modern Android devices, enhancing its functionality and making it versatile for various warehouse tasks. The compatibility with multiple devices reduces the need for additional hardware investments.
 
 - **Voice Support:**
 The app supports voice commands, enabling hands-free operations. This feature significantly enhances productivity, especially in fast-paced warehouse environments where quick and accurate actions are crucial. Voice support allows workers to keep their hands free for handling items, thus improving efficiency and reducing errors.
 
 - **Enterprise Deployment Architecture:**
-RF PLUS PLUS is designed with a simplified deployment architecture for enterprises. This ensures that the app can be deployed quickly and easily across large organizations, minimizing downtime and disruption. The architecture supports scalability, making it suitable for both small and large warehouse operations.
+Smart RF Plus is designed with a simplified deployment architecture for enterprises. This ensures that the app can be deployed quickly and easily across large organizations, minimizing downtime and disruption. The architecture supports scalability, making it suitable for both small and large warehouse operations.
 
 - **Device Integration:**
 The app simplifies the process of adding new devices, allowing for quick integration into the existing system. This feature reduces the complexity and time required for onboarding new devices, ensuring that warehouse operations can continue smoothly with minimal interruptions. The streamlined device integration process supports operational flexibility and agility.
 
-##  Value Proposition of RF PLUS PLUS
+##  Value Proposition
 
 - **Builds on Existing BY Solution**
-  RF PLUS PLUS enhances and extends the functionality of your existing Blue Yonder (BY) solution. By building on the robust foundation of BY, it ensures continuity and leverages the strengths of the established system, making the transition seamless and efficient.
+ Smart RF Plus enhances and extends the functionality of your existing Blue Yonder (BY) solution. By building on the robust foundation of BY, it ensures continuity and leverages the strengths of the established system, making the transition seamless and efficient.
 
 - **Additional Information Integration**
   The app supports the integration of additional information from both BY sources and external databases. This flexibility allows users to access comprehensive data, including multimedia objects like images, directly within the RF screens, thereby enriching the user experience.
 
 - **Eases System Support**
-  RF PLUS PLUS simplifies system support by providing a user-friendly interface and reducing the complexity of backend interactions. This ease of support translates into less downtime and quicker issue resolution, ensuring smooth warehouse operations.
+ Smart RF Plus simplifies system support by providing a user-friendly interface and reducing the complexity of backend interactions. This ease of support translates into less downtime and quicker issue resolution, ensuring smooth warehouse operations.
 
 - **Reduces the Need for Developers**
-  With RF PLUS PLUS, many customization and enhancement tasks that previously required developer intervention can now be handled directly through the app. This reduces the reliance on developers, lowering costs and accelerating deployment times.
+  With Smart RF Plus, many customization and enhancement tasks that previously required developer intervention can now be handled directly through the app. This reduces the reliance on developers, lowering costs and accelerating deployment times.
 
 - **Simplified System Interaction**
   The app simplifies system interaction by rendering function keys as buttons on RF screens. This enhancement makes the system more intuitive and accessible, reducing training time and improving operational efficiency.
 
 - **Maximize the Information Per Screen**
-  RF PLUS PLUS maximizes the amount of information that can be displayed per screen, using a multi-tab layout. This feature allows users to access more data without navigating away from the primary screen, enhancing productivity and decision-making.
+  Smart RF Plus maximizes the amount of information that can be displayed per screen, using a multi-tab layout. This feature allows users to access more data without navigating away from the primary screen, enhancing productivity and decision-making.
 
 - **Improved User Experience**
   The application significantly improves user experience through a combination of touch support, enhanced screen layouts, and intuitive navigation. These features make it easier for users to perform tasks quickly and accurately.
 
 - **Touch Support**
-  Touch support is integrated into RF PLUS PLUS, allowing users to interact with the system using touch gestures. This modern interface option enhances usability, especially on touchscreen devices, making the app more versatile and user-friendly.
+  Touch support is integrated into Smart RF Plus, allowing users to interact with the system using touch gestures. This modern interface option enhances usability, especially on touchscreen devices, making the app more versatile and user-friendly.
 
 - **Screen Layout Enhancement**
-  The enhanced screen layout in RF PLUS PLUS ensures that information is presented clearly and logically. This improvement reduces the cognitive load on users, making it easier to understand and interact with the displayed data.
+  The enhanced screen layout in Smart RF Plus ensures that information is presented clearly and logically. This improvement reduces the cognitive load on users, making it easier to understand and interact with the displayed data.
 
 - **Voice Support**
-   RF PLUS PLUS includes voice support, enabling hands-free operations. This feature is particularly beneficial in fast-paced environments where efficiency and multitasking are crucial, allowing workers to execute commands and retrieve information without manual input.
+   Smart RF Plus includes voice support, enabling hands-free operations. This feature is particularly beneficial in fast-paced environments where efficiency and multitasking are crucial, allowing workers to execute commands and retrieve information without manual input.
