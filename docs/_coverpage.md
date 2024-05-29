@@ -6,3 +6,4 @@
 
 [RF DEMO](https://www.smart-is.com/what-we-do/smart-product/rf/)
 [User Guide](./readme.md)
+[Download app](https://play.google.com/store/apps/details?id=com.oracular.rprfemulatorvoice)
