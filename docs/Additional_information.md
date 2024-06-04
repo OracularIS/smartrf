@@ -1,6 +1,7 @@
 # Additional Information
 
-Smart RF Plus uses the  real estate of the screen to display additional data, enhancing the user experience and providing valuable context for warehouse operations.
+Smart RF Plus uses the  real estate of the screen to display 
+additional data, enhancing the user experience and providing valuable context for warehouse operations.
 
 ## What is it?
 
