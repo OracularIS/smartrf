@@ -25,9 +25,8 @@ To operate an RF PLUS device, follow these basic steps:
 
 4. **Access Smart RF PLUS Home Screen**
    - After successful authentication and session establishment, the work information page  will be displayed.
-   ![workinfo](./attachments/basicflow/workinfo.png)
-
+<img src="./attachments/basicflow/workinfo.png" alt="workinfo" style="height: 200px;margin:auto;display:block">
    - User have to enter their work loaction, warehouse equipment type, after setting up this Smart RF undirected menu will be displayed.
 
-   ![Smartapphome](./attachments/basicflow/undirectedmenu.png)
+   ![Smartapphome](./attachments/basicflow/undirectedmenu.png){:height="200px"}
    - Users can now access the various features and functionalities of the Smart RF PLUS device, streamlining their warehouse operations.
