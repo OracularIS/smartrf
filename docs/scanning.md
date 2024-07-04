@@ -11,11 +11,9 @@ Smart RF PLUS supports efficient scanning functionalities to streamline warehous
   5. Once paired, the scanner will be ready for use within the app.
 
 - **Screenshots**:
-  ![Bluetooth Settings](URL-to-Bluetooth-Settings-Screenshot)
-  ![Pairing Scanner](URL-to-Pairing-Scanner-Screenshot)
-
+  
 - **Video Demonstration**:
-  [![Connect a Bluetooth Scanner](URL-to-Thumbnail-Image)](URL-to-Video-Demonstration)
+  [(https://www.youtube.com/watch?v=266QsujVE1Y)]
 
 ## Swipe from Right for Camera Scanning
 
@@ -26,9 +24,5 @@ Smart RF PLUS supports efficient scanning functionalities to streamline warehous
   4. The app will automatically detect and scan the code, displaying the relevant information on the screen.
 
 - **Screenshots**:
-  ![Swipe for Camera](URL-to-Swipe-for-Camera-Screenshot)
-  ![Camera Scanning](URL-to-Camera-Scanning-Screenshot)
-
-- **Video Demonstration**:
-  [![Swipe from Right for Camera Scanning](URL-to-Thumbnail-Image)](URL-to-Video-Demonstration)
+ <img src="./attachments/Navigations/camerascanner.png" alt="alphabetic" style="height: 200px;margin:auto;display:block">
 

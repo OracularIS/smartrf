@@ -31,8 +31,8 @@
 
 ```sql
 publish data
-  where wh_id = 'US01'
-    and rf_ven_nam = 'OLDSYM'
+  where wh_id = 'WH_ID'
+    and rf_ven_nam = 'Your vendor name'
     and term_typ = 'handheld'
     and dsply_wid = '20'
     and dsply_hgt = '16'
