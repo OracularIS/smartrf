@@ -1,0 +1,66 @@
+# SMART RF PLUS Quick Startup Guide
+
+Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse operations. This guide will walk you through the steps to register a new device and operate it seamlessly within your environment.
+
+## Registering New Devices
+
+1. **Navigate to the Profile Setup**
+   - Begin by logging into your SmartApps account. Once logged in, head over to the profile group section of the app.
+   - Here you will define the profile groups, profile and profile setups.
+   -After seting up the profile setup there will be the qr code against that setup, click on that and scan the qr code
+
+    ![Configuration](./attachments/deviceregistration/cofiguration.png)
+
+   - The QR code contains all the necessary information for device registration, including the device type and dimensions.
+
+2. **Open SMART RF PLUS App on Your Android Device**
+   - Now, take your Android device and open the SMART RF PLUS app.
+   - Navigate to the home screen of the app and click on the "Register Device" button.
+
+    ![Register Screen](./attachments/deviceregistration/registerscreen.png)
+
+   - Use your device to scan the QR code displayed on the profile setup screen. 
+
+    ![Profile QR](./attachments/deviceregistration/profileqr.png)
+
+3. **Confirm Device Registration**
+   - Once the QR code is scanned, your device will be automatically registered with the selected profile.
+   - You will see the newly registered profile under the environment section on the SMART RF PLUS home page, indicating successful registration.
+
+By following these straightforward steps, you ensure your devices are correctly configured and ready for use with SMART RF PLUS.
+
+## Operating an RF PLUS Device
+
+1. **Connect the Environment**
+   - On the RF PLUS home screen, you will find a dropdown menu. Use this menu to select the environment you wish to operate in.
+   - After selecting the desired environment, click the "Connect" button to initiate the connection process.
+
+     <img src="./attachments/basicflow/environment.png" alt="environment" style="height: 200px;margin:auto;display:block">
+
+   - This step establishes a connection between your device and the chosen environment, setting the stage for smooth operations.
+
+2. **Login Prompt**
+   - Upon initiating the connection, a login prompt will appear on your screen.
+   - Enter your username and password for the selected environment. Make sure the credentials are correct to establish a secure connection.
+
+   <img src="./attachments/basicflow/Login.png" alt="login" style="height: 200px;;margin:auto;display:block">
+
+   - Successful login will lead to the next phase, where your device connects to the server.
+
+3. **Telnet Session**
+   - The system will automatically start a telnet session.
+   - During this session, your device will input the terminal ID retrieved from the QR code, along with the username and password you provided.
+
+    <img src="./attachments/basicflow/telnetlogin.png" alt="telnetlogin" style="height: 200px;;margin:auto;display:block">
+
+   - This automated process ensures that the session is authenticated correctly, linking the specific device and user securely.
+
+4. **Access Smart RF PLUS Home Screen**
+   - After authentication, you will be directed to the work information page.
+   - Here, you will enter details such as your work location and warehouse equipment type. Once these details are set, the Smart RF PLUS undirected menu will be displayed.
+
+   <img src="./attachments/basicflow/workinfo.png" alt="workinfo" style="height: 200px;margin:auto;display:block">
+
+   - This menu gives you access to various features and functionalities of the Smart RF PLUS device, enabling streamlined and efficient warehouse operations.
+
+By following these comprehensive steps, you can quickly register and operate your devices with SMART RF PLUS, ensuring optimal performance and efficiency in your warehouse tasks.

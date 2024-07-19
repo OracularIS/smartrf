@@ -16,6 +16,7 @@ To use Smart RF Plus, users need to register themselves on the SmartApps platfor
 2. **Subscribe to Smart RF PLUS**:
    - Log in to your SmartApps account.
    ![Smartapphome](./attachments/Smartapp/smartapphome.png)
+
    - Select the Smart RF PLUS feature and click subscribe Button.
    ![Rfsubscrib](./attachments/Smartapp/RFsubscribe.png)
    - After clicking on confirmation promt will appear read it and acknowledge to smart-is policy. And click on th submit button.
