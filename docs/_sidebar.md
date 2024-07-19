@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](./readme.md)
+- [Quick Startup](./Quick%20startup)
 - [Getting RF++](./getting_rf.md)
 - [Concepts](./concepts.md)
 - [Smart Apps Setup](./Smartapp.md)
