@@ -59,5 +59,7 @@ create rf terminal
     and dsply_hgt = @dsply_hgt
     and locale_id = @locale_id;
  ```   
+
+ You will use this code to create the devices at once, so that you dont need to restart the task after every device creation.
 - **Device registration against the environment**
 - Once the devices are created, they are registered against the desired environment. This registration process ensures that each device is properly configured to interact with the Smart RF Plus application and the underlying systems.
