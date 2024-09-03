@@ -1,6 +1,16 @@
 # SMART RF PLUS Quick Start
 
 Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse operations. This guide will walk you through the steps to register a new device and operate it seamlessly within your environment.
+## Prerequisite
+
+- **MTF Server Task Reservation**
+  - Reserve a task for Smart RF Plus (existing or new).
+
+- **Server Configurations**
+  - Specify the MTF protocol (SSH or Telnet):
+    - For Telnet: `-N Telnet`
+    - For SSH: `-N SSH`
+  - Add debug parameters: `-G22,1`
 
 ## Sign Up and Subscribe
 
