@@ -15,7 +15,6 @@
 
 - **Determining device ID and terminal ID through device hardware settings**
   - The app determines the device ID and terminal ID by accessing the hardware settings of the device. This automatic identification process simplifies device registration and management.
-
 - **Showing additional information**
   - Smart RF Plus allows for the display of additional information on the RF screens. This can include data from BY sources or external databases, enhancing the user experience with more comprehensive and useful information.
 
@@ -23,6 +22,13 @@
 
 - **MTF server task reservation**
   - An MTF server task must be reserved for Smart RF Plus. This task can be an existing one or a newly created task dedicated to the application.
+
+- **Server Configurations**
+  - In your task you should specify the Mtf protocol Like SSH or telnet.
+   - For telnet Add -N Telnet.
+   - For SSH Add -N SSH.
+  - In your task Add the G parameters (-G22,1) for the debug row.
+
 
 - **Script to create 1000 devices**
   - Below script run to create device IDs ranging from SM00001 to SM01000. This pre-creation of device IDs ensures that the server task does not need to be restarted frequently, streamlining the registration process.
@@ -61,5 +67,7 @@ create rf terminal
  ```   
 
  You will use this code to create the devices at once, so that you dont need to restart the task after every device creation.
+
 - **Device registration against the environment**
-- Once the devices are created, they are registered against the desired environment. This registration process ensures that each device is properly configured to interact with the Smart RF Plus application and the underlying systems.
+   
+  - Once the devices are created, they are registered against the desired environment. This registration process ensures that each device is properly configured to interact with the Smart RF Plus application and the underlying systems.
