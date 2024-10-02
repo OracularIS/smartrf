@@ -18,3 +18,24 @@ Smart RF PLUS leverages the extra screen space to show additional information th
 - **Images**
   - Supports the display of images, which can be useful for visual references such as product photos, diagrams, or instructional images.
 
+### How to mantain Additional information 
+ - **Form Information**
+   - To manage information displayed on forms, use the Form Information Menu. Here, you can define what additional data should appear across the screen.
+
+    - Navigate to the form information menu  on the smart rf plus.
+    - click on the add button from here  
+    <img src="./attachments/additional information/Form_info.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
+    - Simply add the App Version, the relevant Form ID, and input the Title, Type, and Information you want displayed. You can also arrange the display order by setting a Sort Sequence, ensuring that critical data appears in the right place and in the correct order.
+ 
+      <img src="./attachments/additional information/Form_info_dtl.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
+  
+- **Field Information**
+   - The Field Information Menu lets you manage data for individual fields within a form.
+
+   - Navigate to the form information menu  on the smart rf plus.
+   - click on the add button from here 
+
+   <img src="./attachments/additional information/Field_infoi.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
+   
+  - You can choose the Field ID, along with the App Version and Form ID, to link specific information to particular fields. By setting the Title, Type, and Info, as well as the Sort Sequence.
+  <img src="./attachments/additional information/Form_info_dtl.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">

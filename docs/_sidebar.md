@@ -2,13 +2,14 @@
 
 - [Home](./readme.md)
 - [Quick Start](./Quick_start.md)
-- [Getting RF++](./getting_rf.md)
 - [Concepts](./concepts.md)
-- [Smart Apps Setup](./Smartapp.md)
+- [Getting RF++](./getting_rf.md)
 - [Registering New Devices](./device_registration.md)
 - [Basic flow](./Basic_flow.md)
-- [Navigation](./Navigation.md)
-- [Scanning](./scanning.md)
-- [Additional Information](./Additional_information.md)
+- [Smart RF Features](./Navigation.md)
+  - [Navigation](./Navigation.md)
+  - [Scanning](./scanning.md)
+  - [Additional Information](./Additional_information.md)
+ 
 
 

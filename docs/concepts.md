@@ -44,7 +44,7 @@ publish data
     and dsply_hgt = '16'
     and locale_id = 'US_ENGLISH';
 
-do loop where count = 10
+do loop where count = 1000
 |
 {
     publish data 
@@ -71,3 +71,7 @@ create rf terminal
 - **Device registration against the environment**
    
   - Once the devices are created, they are registered against the desired environment. This registration process ensures that each device is properly configured to interact with the Smart RF Plus application and the underlying systems.
+
+- **Seamless Auto-Population of Terminal ID and User Login Information**
+
+  - Our product takes the hassle out of manual input by automatically populating essential fields like Terminal ID and User Login Information directly on the RF screen. When a user connects to the system, the Terminal ID is instantly fetched from the device registration, eliminating the need for repetitive entry and reducing errors. Additionally, the user login information is auto-filled from their profile, ensuring a smooth and efficient onboarding process each time they access the environment.

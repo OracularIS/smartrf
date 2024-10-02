@@ -9,9 +9,6 @@ Smart RF Plus is a comprehensive RF solution designed to enhance JDA/Blue Yonder
 - **RF Screen Functionality:**
 Smart RF Plus enhances the standard RF screens by rendering function keys as buttons. This improves user interaction and makes the interface more intuitive and user-friendly. The streamlined design ensures that warehouse operations can be performed more efficiently, reducing the learning curve for new users.
 
-- **Multi-Tab Layout:**
-The application supports a multi-tab layout, allowing users to access additional information from BY sources or external databases. This feature can include multimedia objects such as images, providing a richer and more informative user experience. The multi-tab layout helps users quickly navigate between different types of data without losing context.
-
 - **Device Compatibility:**
 Smart RF Plus offers out-of-the-box compatibility with device-level extensions like cameras and other sensors. This ensures that the app can leverage the full capabilities of modern Android devices, enhancing its functionality and making it versatile for various warehouse tasks. The compatibility with multiple devices reduces the need for additional hardware investments.
 
