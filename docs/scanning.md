@@ -10,7 +10,6 @@ Smart RF PLUS supports efficient scanning functionalities to streamline warehous
   4. Find your scanner in the list of available devices and select it to pair.
   5. Once paired, the scanner will be ready for use within the app.
 
-- **Screenshots**:
   
 - **Video Demonstration**:
   [(https://www.youtube.com/watch?v=266QsujVE1Y)]

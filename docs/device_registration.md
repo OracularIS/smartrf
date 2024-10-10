@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Smart Apps Setup for RF++ involves defining the necessary MTF  parameters to ensure smooth operation. This setup includes the execution of a script to create up to 5,000 devices, identified by IDs ranging from SM00001 to SM05000. By pre-creating these device IDs, the system avoids frequent task restarts, streamlining the registration process and ensuring efficient device management.
+The Smart Apps Setup for Smart RF PLUS involves defining the necessary MTF  parameters to ensure smooth operation. This setup includes the execution of a script to create up to 5,000 devices, identified by IDs ranging from SM00001 to SM05000. By pre-creating these device IDs, the system avoids frequent task restarts, streamlining the registration process and ensuring efficient device management.
 
-## Getting RF PLUS Account
+## Enabling Smart RF PLUS
 
 To use Smart RF Plus, users need to register themselves on the SmartApps platform and subscribe to the Smart RF PLUS feature. Follow these steps:
 
@@ -55,7 +55,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Log in to your SmartApps account with your credentials.
 
 2. **Product Subsription**
-   - After ;ogging in product page will be displayed.
+   - After Logging in product page will be displayed.
 
 3. **Select Smart RF PLUS**
    - Click on the RF Plus Plus from the product list.
@@ -125,6 +125,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Use the SMART RF PLUS app to scan the QR code displayed on your profile setup screen.
 
  <img src="./attachments/deviceregistration/scanner.png" alt="registersreen" style="height: 200px;margin:auto;display:block">
+ 
    - This will automatically register your device with the selected profile setup.
    - Your profile will be display in the under the environment section of the smart RF Plus home page screen.
    
