@@ -13,22 +13,14 @@ To use Smart RF Plus, users need to register themselves on the SmartApps platfor
    - Fill out the registration form with the required information.
    - Verify your email address to complete the registration process.
 
-2. **Subscribe to Smart RF PLUS**:
-   - Log in to your SmartApps account.
-   ![Smartapphome](./attachments/Smartapp/smartapphome.png)
-
-   - Select the Smart RF PLUS feature and click subscribe Button.
-   ![Rfsubscrib](./attachments/Smartapp/RFsubscribe.png)
-   - After clicking on confirmation promt will appear read it and acknowledge to smart-is policy. And click on th submit button.
-   ![Confirmationoprompt](./attachments/Smartapp/cofirmation.png)
-
-   - After subscribing Smart Rf plus feature will appear in your menu
-
-
 
 # Registering New Devices
 
 To register a new device with SMART RF PLUS, follow these steps:
+-  Sign up
+- Subscribe
+- Profile Group
+- Profile Setup
 
 # Sign Up and Subscribe
 
@@ -49,14 +41,17 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Check your email for a verification link.
    - Click the verification link to activate your SmartApps account.
 
-### Subscribe to Smart RF PLUS Feature
+## Subscribe to Smart RF PLUS Feature
 
 1. **Log In to SmartApps**
    - Log in to your SmartApps account with your credentials.
+   ![Smartapphome](./attachments/Smartapp/smartapphome.png)
+
 
 2. **Product Subsription**
    - After Logging in product page will be displayed.
-
+ Select the Smart RF PLUS feature and click subscribe Button.
+   ![Rfsubscrib](./attachments/Smartapp/RFsubscribe.png)
 3. **Select Smart RF PLUS**
    - Click on the RF Plus Plus from the product list.
    - Click on it and follow the prompts to subscribe.
@@ -65,6 +60,14 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
 4. **Complete Subscription**
    - Provide any necessary payment information.
    - Confirm and complete the subscription process.
+ 
+   - After clicking on confirmation promt will appear read it and acknowledge to smart-is policy. And click on th submit button.
+   ![Confirmationoprompt](./attachments/Smartapp/cofirmation.png)
+
+
+5. **Subscribe to Smart RF PLUS**:
+   - After subscribing Smart Rf plus feature will appear in your menu
+
 
 
 # Profile Group 

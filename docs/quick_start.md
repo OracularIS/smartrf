@@ -26,6 +26,8 @@ Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse op
    - Navigate to the product subscription page.
    - Select Smart RF PLUS from the list and follow the prompts to subscribe.
 
+For detailed instructions, please refer to the [Subscribe to Smart RF PLUS Feature](device_registration.md#subscribe-to-smart-rf-plus-feature) section 
+
 ## Profile Group Setup
 
 Profile groups in Smart RF Plus allow you to organize multiple profiles, each representing a different instance. This helps in managing configurations efficiently.
@@ -39,6 +41,7 @@ Profile groups in Smart RF Plus allow you to organize multiple profiles, each re
 Profiles represent specific instances within a profile group. Each profile can be configured to connect to different environments.
 
    <img src="./attachments/deviceregistration/profile.png" alt="profile" style="height: 200px; margin: auto; display: block">
+
 
    For detailed instructions, please refer to the [Profile Details](device_registration.md#profiles) section.
 
