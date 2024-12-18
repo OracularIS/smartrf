@@ -10,6 +10,8 @@ To operate an RF PLUS device, follow these basic steps:
    <img src="./attachments/basicflow/environment.png" alt="environment" style="height: 200px;margin:auto;display:block">
 
    - This will initiate the connection process to the selected environment.
+   - If their is no enviornment shown then click on the **Register Device** and for more information about that Visit [Device Registration](device_registration.md) page.
+
 
 2. **Login Prompt**
    - A login prompt will appear on the screen.
