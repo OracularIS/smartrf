@@ -20,8 +20,12 @@ Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse op
    - Verify your email by clicking the link sent to you.
 
    <img src="./attachments/deviceregistration/signup.png" alt="configuration" style="height: 200px; margin: auto; display: block">
+2. **Verify Your Email**
+   - Check your email for a verification link.
+   - Click the verification link to activate your SmartApps account.
 
-2. **Subscribe to Smart RF PLUS**
+
+ ### Subscribe to Smart RF PLUS
    - Log in to your SmartApps account.
    - Navigate to the product subscription page.
    - Select Smart RF PLUS from the list and follow the prompts to subscribe.
