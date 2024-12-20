@@ -8,12 +8,12 @@ The Smart Apps Setup for RF++ involves defining the necessary MTF  parameters to
 
 To use Smart RF Plus, users need to register themselves on the SmartApps platform and subscribe to the Smart RF PLUS feature. Follow these steps:
 
-1. **Register on SmartApps**:
+- **Register on SmartApps**:
    - Visit the [SmartApps registration page](https://apps.smart-is.com/).
    - Fill out the registration form with the required information.
    - Verify your email address to complete the registration process.
 
-2. **Subscribe to Smart RF PLUS**:
+- **Subscribe to Smart RF PLUS**:
    - Log in to your SmartApps account.
    ![Smartapphome](./attachments/Smartapp/smartapphome.png)
 
