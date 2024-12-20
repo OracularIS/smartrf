@@ -1,8 +1,9 @@
-# Basic Flow of RF PLUS Device
+# Smart RF Plus Basic flow
 
 To operate an RF PLUS device, follow these basic steps:
 
-1. **Connect the Environment**
+
+- **Connect the Environment**
    - On the RF PLUS home there will be dropdown to select the environment.
    - Choose the environment for your operations.
 
@@ -13,7 +14,7 @@ To operate an RF PLUS device, follow these basic steps:
    - If their is no enviornment shown then click on the **Register Device** and for more information about that Visit [Device Registration](device_registration.md) page.
 
 
-2. **Login Prompt**
+- **Login Prompt**
    - A login prompt will appear on the screen.
    - Enter the username and password for the selected environment.
    - Ensure the credentials are correct to establish a secure connection.
@@ -22,7 +23,7 @@ To operate an RF PLUS device, follow these basic steps:
    <img src="./attachments/basicflow/Login.png" alt="login" style="height: 200px;;margin:auto;display:block">
 
 
-3. **Telnet Sesion**
+- **Telnet Sesion**
    - A telnet session will be started.
    - The device will automatically input (stuff) the terminal ID retrieved from the QR code along with the username and password provided during login.
 
@@ -30,9 +31,9 @@ To operate an RF PLUS device, follow these basic steps:
 
    - This process ensures that the session is correctly authenticated and associated with the specific device and user.
 
-4. **Access Smart RF PLUS Home Screen**
+- **Access Smart RF PLUS Home Screen**
    - After successful authentication and session establishment, the work information page  will be displayed.
-<img src="./attachments/basicflow/workinfo.png" alt="workinfo" style="height: 200px;margin:auto;display:block">
+   <img src="./attachments/basicflow/workinfo.png" alt="workinfo" style="height: 200px;margin:auto;display:block">
    - User have to enter their work loaction, warehouse equipment type, after setting up this Smart RF undirected menu will be displayed.
 
    <img src="./attachments/basicflow/undirectedmenu.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">

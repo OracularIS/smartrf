@@ -1,11 +1,11 @@
 # SMART RF PLUS Features
 
 
-## Scanning
+## **Scanning**
 
 Smart RF PLUS supports efficient scanning functionalities to streamline warehouse operations. Below are the key scanning features:
 
-## Connect a Bluetooth Scanner
+### **Connect a Bluetooth Scanner**
 
 - **Step-by-Step Guide**:
   - Ensure your Bluetooth scanner is powered on and in pairing mode.
@@ -17,7 +17,7 @@ Smart RF PLUS supports efficient scanning functionalities to streamline warehous
 - **Video Demonstration**:
   [https://www.youtube.com/watch?v=266QsujVE1Y]
 
-## Swipe from Right for Camera Scanning
+### **Swipe from Right for Camera Scanning**
 
 - **Step-by-Step Guide**:
   - Open the Smart RF PLUS app on your Android device.
