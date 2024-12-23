@@ -26,5 +26,13 @@ Smart RF PLUS supports efficient scanning functionalities to streamline warehous
   - The app will automatically detect and scan the code, displaying the relevant information on the screen.
 
 - **Screenshots**:
- <img src="./attachments/Navigations/camerascanner.png" alt="alphabetic" style="height: 200px;margin:auto;display:block">
+ <div style="text-align: center;">
+  <img src="./attachments/Navigations/camerascanner.png" 
+       alt="alphabetic" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  </div>
+
 

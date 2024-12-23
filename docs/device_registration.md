@@ -35,23 +35,63 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Provide the required information such as name, email.
    - Complete the registration form and submit it.
 
-   <img src="./attachments/deviceregistration/signup.png" alt="cofiguration" style="height: 200px;margin:auto;display:block">
+   <div style="text-align: center;">
+   <img src="./attachments/deviceregistration/signup.png" 
+       alt="configuration" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
 - **Verify Your Email**
    - Check your email for a verification link.
    - Click the verification link to activate your SmartApps account.
 
+
+- **Register through Microsoft and Gmail Account**
+   
+   - Open Smart-Apps page.
+   - Select Microsoft or Gmail Account with whom you want to login.
+
+   <div style="text-align: center;">
+   <img src="./attachments/deviceregistration/Smart-appsLogin.png" 
+       alt="configuration" 
+       style="height: 200px; width: 420px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
+
+   - Add Username and Password for login.
+
 ### **Subscribe to Smart RF PLUS Feature**
 
 - **Log In to SmartApps**
    - Log in to your SmartApps account with your credentials.
-   ![Smartapphome](./attachments/Smartapp/smartapphome.png)
+   <div style="text-align: center;">
+   <img src="./attachments/Smartapp/smartapphome.png" 
+       alt="Smartapphome" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
 
 
 - **Product Subsription**
    - After Logging in product page will be displayed.
  Select the Smart RF PLUS feature and click subscribe Button.
-   ![Rfsubscrib](./attachments/Smartapp/RFsubscribe.png)
+   <div style="text-align: center;">
+   <img src="./attachments/Smartapp/RFsubscribe.png" 
+       alt="Rfsubscrib" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
 - **Select Smart RF PLUS**
    - Click on the RF Plus Plus from the product list.
    - Click on it and follow the prompts to subscribe.
@@ -62,7 +102,15 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Confirm and complete the subscription process.
  
    - After clicking on confirmation promt will appear read it and acknowledge to smart-is policy. And click on th submit button.
-   ![Confirmationoprompt](./attachments/Smartapp/cofirmation.png)
+   <div style="text-align: center;">
+   <img src="./attachments/Smartapp/cofirmation.png" 
+       alt="Confirmationoprompt" 
+       style="height: 200px;width: 430px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
 
 - **Subscribe to Smart RF PLUS**:
@@ -85,7 +133,15 @@ Smart RF PLUS allows users to create and manage profile groups, which organize m
    - Enter a name for the new profile group.
    - Save the profile group.
 
-       <img src="./attachments/deviceregistration/profile_group.png" alt="cofiguration" style="height: 200px;margin:auto;display:block">
+   <div style="text-align: center;">
+   <img src="./attachments/deviceregistration/profile_group.png" 
+       alt="configuration" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
 ## Profiles
 
@@ -99,8 +155,16 @@ Once you have created a profile group, you can define profiles within that group
    - Enter the profile name and details.
    - Define the instance associated with this profile.
    - Save the profile.
+   
+   <div style="text-align: center;">
+  <img src="./attachments/deviceregistration/profile.png" 
+       alt="configuration" 
+       style="height: 180px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='360px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='180px'; this.style.cursor='zoom-in';">
+   </div>
 
-   <img src="./attachments/deviceregistration/profile.png" alt="cofiguration" style="height: 200px;margin:auto;display:block">
 
 ## Profile Setup
 
@@ -115,19 +179,54 @@ After defining profiles, you need to configure the profile setup for each profil
    - Specify the port number.
    - Input the warehouse ID (wh_id) where the profile will operate.
    - Save the profile setup.
-    <img src="./attachments/deviceregistration/profile_setup.png" alt="cofiguration" style="height: 200px;margin:auto;display:block">
-    Go to the configuration screen, click on the actions against the profile setup that you have created. It will generate the QR code. You can change the termial type.
-       <img src="./attachments/deviceregistration/profileqr.png" alt="profileqr" style="height: 200px;margin:auto;display:block">
+
+   <div style="text-align: center;">
+   <img src="./attachments/deviceregistration/profile_setup.png" 
+       alt="configuration" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
+
+Go to the configuration screen, click on the actions against the profile setup that you have created. It will generate the QR code. You can change the termial type.
+   
+   <div style="text-align: center;">
+  <img src="./attachments/deviceregistration/profileqr.png" 
+       alt="profileqr" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
 - **Open the SMART RF PLUS App on Your Android Device**
    - On your Android device, open the SMART RF PLUS app.
    - Click on the "Register Device" Button.
 
-<img src="./attachments/deviceregistration/registerscreen.png" alt="registerscreen" style="height: 200px;margin:auto;display:block">
+   <div style="text-align: center;">
+   <img src="./attachments/deviceregistration/registerscreen.png" 
+       alt="registerscreen" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
    - Use the SMART RF PLUS app to scan the QR code displayed on your profile setup screen.
 
- <img src="./attachments/deviceregistration/scanner.png" alt="registersreen" style="height: 200px;margin:auto;display:block">
+   <div style="text-align: center;">
+  <img src="./attachments/deviceregistration/scanner.png" 
+       alt="scanner" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
  
    - This will automatically register your device with the selected profile setup.
    - Your profile will be display in the under the environment section of the smart RF Plus home page screen.
