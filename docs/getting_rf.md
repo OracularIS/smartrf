@@ -7,13 +7,31 @@
 
 - **Search for Smart RF Plus**
    - In the search bar at the top, type "Smart RF Plus" and press enter.
-   <img src="./attachments/gettingrf/Searchrf.png" alt="Searchrf" style="height: 200px;margin:auto;display:block">
+   
+   <div style="text-align: center;">
+   <img src="./attachments/gettingrf/Searchrf.png" 
+       alt="Searchrf" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
 - **Install the App**
    - From the search results, find the Smart RF Plus app developed by Smart IS.
    - Tap on the app and then tap the "Install" button.
    - The app will download and install on your device.
-      <img src="./attachments/gettingrf/installrf.png" alt="installrf" style="height: 200px;margin:auto;display:block">
+   
+   <div style="text-align: center;">
+  <img src="./attachments/gettingrf/installrf.png" 
+       alt="installrf" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
   
 
 - **Open the App**
@@ -26,7 +44,16 @@ In addition to the Play Store, you can also download the Smart RF Plus app direc
 
 - **Scan the QR Code**
    - Scan the following QR code to be directed to the Smart-is Smart RF Plus download page:
-<img src="./attachments/gettingrf/appqrcode.png" alt="appqrcode" style="height: 200px;margin:auto;display:block">
+   
+   <div style="text-align: center;">
+  <img src="./attachments/gettingrf/appqrcode.png" 
+       alt="appqrcode" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
+
 
 - **Visit the Smart-IS Website**
    - You can  go to [Smart IS Website](https://www.smart-is.com/what-we-do/smart-product/rf/).

@@ -76,16 +76,31 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   - Navigate to the form information menu  on the smart rf plus.
   - click on the add button from here  
 
-  <img src="./attachments/additional information/Form_info.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
+  <div style="text-align: center;">
+  <img src="./attachments/additional information/Form_info.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  </div>
+
 
 
   - A new screen appears now follow the following steps: 
-    - Add App Version
-    - Add relevant Form ID
-    - Add Title, Type, and Information you want displayed.
-    - You can also arrange the display order by setting a Sort      Sequence, ensuring that critical data appears in the right place and in the correct order.
+    - **Choose App Version** : MOCA Version which is in use
+    - **Choose relevant Form ID** : Form on which you work.
+    - Add **Title**, **Type**, and **Information** you want displayed.
+    - You can also arrange the display order by setting a Sort Sequence, ensuring that critical data appears in the right place and in the correct order.
  
-  <img src="./attachments/additional information/Form_info_dtl.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
+  <div style="text-align: center;">
+  <img src="./attachments/additional information/Form_info_dtl.png" 
+       alt="undirectedmenu" 
+       style="height: 190px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  </div>
   
   - Click on the save button to proceed
 ### 
@@ -95,14 +110,29 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   - Navigate to the form information menu  on the smart rf plus.
   - click on the add button from here 
   
-  <img src="./attachments/additional information/Field_infoi.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
+  <div style="text-align: center;">
+  <img src="./attachments/additional information/Field_infoi.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  </div>
+
    
   - A new screen appears now follow the following steps:
-    - Choose the Field ID
-    - Choose the App Version
-    - Choose Form ID
-    - To link specific information to particular fields by setting the Title, Type, and Info, as well as the Sort Sequence.
+    - **Choose the Field ID**:Selects on which field you want to work.
+    - **Choose the App Version**: MOCA Version which is in use.
+    - **Choose Form ID**: Form on which you work.
+    - To link specific information to particular fields by setting the **Title**, **Type**, and **Information**, as well as the **Sort Sequence**.
 
-  <img src="./attachments/additional information/Form_info_dtl.png" alt="undirectedmenu" style="height: 200px;margin:auto;display:block">
-
-  - Click on the save button to proceed
+  <div style="text-align: center;">
+  <img src="./attachments/additional information/Form_info_dtl.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  </div>
+  
+  - Click on the Save button to proceed
