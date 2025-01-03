@@ -1,4 +1,4 @@
-# Smart RF Plus FAQ's
+# Smart RF Plus FAQ
 
 ## **FAQ**
 
