@@ -11,6 +11,8 @@
   - [Navigation](./Navigation.md)
   - [Scanning](./scanning.md)
   - [Additional Information](./Additional_information.md)
+- [FAQ](./FAQ.md)
+
  
 
 
