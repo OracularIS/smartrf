@@ -36,7 +36,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Complete the registration form and submit it.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/signup.png" 
+   <img src="./attachments/deviceregistration/Login Screen.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -56,9 +56,9 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Select Microsoft or Gmail Account with whom you want to login.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/Smart-appsLogin.png" 
+   <img src="./attachments/deviceregistration/LoginCredentials.png" 
        alt="configuration" 
-       style="height: 200px; width: 420px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
@@ -73,7 +73,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    - Log in to your SmartApps account with your credentials.
    <div style="text-align: center;">
    <img src="./attachments/Smartapp/smartapphome.png" 
-       alt="Smartapphome" 
+       alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
@@ -207,7 +207,7 @@ Go to the configuration screen, click on the actions against the profile setup t
    - Click on the "Register Device" Button.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/registerscreen.png" 
+   <img src="./attachments/deviceregistration/Firstview.jpeg" 
        alt="registerscreen" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
