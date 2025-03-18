@@ -14,8 +14,6 @@ Smart RF Plus enhances the standard RF screens by rendering function keys as but
 - **Device Compatibility:**
 Smart RF Plus offers out-of-the-box compatibility with device-level extensions like cameras and other sensors. This ensures that the app can leverage the full capabilities of modern Android devices, enhancing its functionality and making it versatile for various warehouse tasks. The compatibility with multiple devices reduces the need for additional hardware investments.
 
-- **Voice Support:**
-The app supports voice commands, enabling hands-free operations. This feature significantly enhances productivity, especially in fast-paced warehouse environments where quick and accurate actions are crucial. Voice support allows workers to keep their hands free for handling items, thus improving efficiency and reducing errors.
 
 - **Enterprise Deployment Architecture:**
 Smart RF Plus is designed with a simplified deployment architecture for enterprises. This ensures that the app can be deployed quickly and easily across large organizations, minimizing downtime and disruption. The architecture supports scalability, making it suitable for both small and large warehouse operations.
@@ -52,5 +50,4 @@ The app simplifies the process of adding new devices, allowing for quick integra
 - **Screen Layout Enhancement**
   The enhanced screen layout in Smart RF Plus ensures that information is presented clearly and logically. This improvement reduces the cognitive load on users, making it easier to understand and interact with the displayed data.
 
-- **Voice Support**
-   Smart RF Plus includes voice support, enabling hands-free operations. This feature is particularly beneficial in fast-paced environments where efficiency and multitasking are crucial, allowing workers to execute commands and retrieve information without manual input.
+

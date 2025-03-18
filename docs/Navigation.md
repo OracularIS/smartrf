@@ -8,7 +8,7 @@ SMART RF PLUS provides intuitive navigation gestures to enhance user experience 
 
     - **Swipe from Bottom**: Swiping up from the bottom of the screen will open the default keyboard. This keyboard allows users to input the alphanumeric input for smooth operations.
     <div style="text-align: center;">
-    <img src="./attachments/Navigations/alphabetic.png" 
+    <img src="./attachments/Navigations/Keyboard.jpeg" 
        alt="alphabetic" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -21,7 +21,7 @@ SMART RF PLUS provides intuitive navigation gestures to enhance user experience 
 
     - **Swipe from Top to Bottom**: Swiping down from the top of the screen will open the device's default keyboard. This keyboard allows users to input numbers, data entry, and other functions that are required.
     <div style="text-align: center;">
-     <img src="./attachments/Navigations/numeric.png" 
+     <img src="./attachments/Navigations/Numerickeys.jpeg" 
        alt="numeric" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -47,7 +47,7 @@ SMART RF PLUS provides intuitive navigation gestures to enhance user experience 
 
     - **Swipe from Left**: Swiping right from the left edge of the screen will reveal the function keys. These keys provide quick access to various functions and shortcuts for the Rf devices within the SMART RF PLUS application, improving workflow efficiency.
     <div style="text-align: center;">
-    <img src="./attachments/Navigations/function keys.png" 
+    <img src="./attachments/Navigations/Functionalkeys.jpeg" 
        alt="alphabetic" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 

@@ -19,7 +19,7 @@ Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse op
    - Fill out the registration form with your name and email, then submit.
 
    <div style="text-align: center;">
-    <img src="./attachments/deviceregistration/signup.png" 
+    <img src="./attachments/deviceregistration/Login Screen.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -31,6 +31,16 @@ Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse op
 
    - Check your email for a verification link.
    - Click the verification link to activate your SmartApps account.
+
+   - Login Through your Credentials.
+   <div style="text-align: center;">
+    <img src="./attachments/deviceregistration/LoginCredentials.png" 
+       alt="configuration" 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+   </div>
 
 
 - ### Subscribe to Smart RF PLUS
@@ -95,8 +105,8 @@ After defining profiles, you need to configure the profile setup for each profil
 
    <div style="text-align: center;">
    <img src="./attachments/deviceregistration/profileqr.png" 
-       alt="profileqr" 
-       style="height: 200px; width: 430px; margin: auto; display: block; cursor: zoom-in; 
+       alt="profile" 
+       style="height: 185px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
@@ -153,7 +163,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Click on the "Register Device" Button.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/registerscreen.png" 
+   <img src="./attachments/deviceregistration/Firstview.jpeg" 
        alt="registerscreen" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -189,7 +199,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Click the "Connect" button to initiate the connection.
    
    <div style="text-align: center;">
-   <img src="./attachments/basicflow/environment.png" 
+   <img src="./attachments/basicflow/Enviornmental.jpeg" 
        alt="environment" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -202,7 +212,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Ensure the credentials are correct to establish a secure connection.
    
    <div style="text-align: center;">
-   <img src="./attachments/basicflow/Login.png" 
+   <img src="./attachments/basicflow/Credentials.jpeg" 
        alt="login" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -214,7 +224,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - A telnet session will start, automatically inputting the terminal ID from the QR code along with the login credentials.
    
    <div style="text-align: center;">
-   <img src="./attachments/basicflow/telnetlogin.png" 
+   <img src="./attachments/basicflow/LoginScreen.jpeg" 
        alt="telnetlogin" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -227,7 +237,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Enter your work location and warehouse equipment type. 
    
    <div style="text-align: center;">
-   <img src="./attachments/basicflow/workinfo.png" 
+   <img src="./attachments/basicflow/WorkInfo.jpeg" 
        alt="workinfo" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -239,7 +249,7 @@ After defining profiles, you need to configure the profile setup for each profil
 
 
    <div style="text-align: center;">
-   <img src="./attachments/basicflow/undirectedmenu.png" 
+   <img src="./attachments/basicflow/Undirected menu.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
