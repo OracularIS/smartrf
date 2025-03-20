@@ -2,112 +2,89 @@
 
 ## Menu
 
-**Here we have the following Undirected Menu item in our Application**
+Here we have the following Menu item in our Application
 
-  <div style="text-align: center;">
-  <img src="./attachments/basicflow/Undirected menu.jpeg" 
+<div>
+  <img src="./attachments/Menu/Menu.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Picking Menu** we have the following Menu items. If you want to pick or unpick product and carton then use this.
 
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (11).jpeg" 
+- From **Sync Data** if you want to sync commands, enviornment and the data you want inside your application at the run time then you can use this tab from the Menu bar. 
+
+
+<div>
+  <img src="./attachments/Menu/SyncData.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Inventory Menu** We have the following Menu items. If you want to display, move or close Inventory then use this.
+- From **Preferences** if you want to set output voice control then you can use this tab from the Menu bar, by default voice control is set to off.
 
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (12).jpeg" 
+<div>
+  <img src="./attachments/Menu/Preferences.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Receiving Menu** we have the following Menu items. If you want to receive LPN, Sub-LPN or complete receive then use this.
+- From **Field Info** if you want to check the information regarding any field of the current form then you can use this tab from the Menu bar.
 
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (13).jpeg" 
+<div>
+  <img src="./attachments/Menu/FeildInfo.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Shipment Menu** we have the following Menu items. If you want to Pickup, Load, Display Equip then use this.
+- From **Help** if you face any difficulty in operating application and you want any assistence or help so that you can use this tab from the Menu bar.
 
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (14).jpeg" 
+<div>
+  <img src="./attachments/Menu/Help.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Production Menu** we have the following Menu items. If you want to Start, Stop work prod or Reverse Prod then use this.
+- From **About** if you want to get to know about Application, it's version and enviornment on which it is currently working you can use this tab from the Menu bar.
 
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (15).jpeg" 
+<div>
+  <img src="./attachments/Menu/About.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Cycle Count Menu** we have the following Menu items. If you want to Cycle, Manual Count then use this.
+- From **Exit** if you want to exit or close your Application you can use this tab from the Menu Bar and your Application will be exited Successfully and by again logged In you can persue it from there where you lefted it.
 
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (16).jpeg" 
+<div>
+  <img src="./attachments/Menu/Exit.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+  
+</div>
 
-- Inside **Yard Menu** we have the following Menu items. If you want to Select Yard Work then use this.
-
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (17).jpeg" 
-       alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
-              border: 2px solid #000000; border-radius: 4px;" 
-       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
-       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
-
-- Inside **Workflow Menu** we have the following Menu items. If you want to Inventory flow or Complete Inventory then use this.
-
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (18).jpeg" 
-       alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
-              border: 2px solid #000000; border-radius: 4px;" 
-       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
-       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
-
-- Inside **Directed Work** we will look into Directed work.
-
-<div style="text-align: center;">
-  <img src="./attachments/Menu/Media (19).jpeg" 
-       alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
-              border: 2px solid #000000; border-radius: 4px;" 
-       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
-       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
