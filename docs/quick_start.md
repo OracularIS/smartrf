@@ -119,40 +119,42 @@ After defining profiles, you need to configure the profile setup for each profil
    - Open Google Play Store on your Android device.
    - Search for "Smart RF Plus" and install the app.
 
-   <div style="text-align: center;">
-   <img src="./attachments/gettingrf/Searchrf.png" 
-       alt="Searchrf" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   
+   <div>
+  <img src="./attachments/gettingrf/Searchrf.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
-
 
    - Select Application
 
-   <div style="text-align: center;">
-   <img src="./attachments/gettingrf/installrf.png" 
-       alt="installrf" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+  <img src="./attachments/gettingrf//installrf.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
 
 - **Direct Download from Smart IS Website**
    - Scan the QR code below to go to the Smart RF Plus download page:
      
-   <div style="text-align: center;">
-      <img src="./attachments/gettingrf/appqrcode.png" 
-       alt="appqrcode" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+     <img src="./attachments/gettingrf/appqrcode.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
-
      
    - Or visit [Smart IS Website](https://www.smart-is.com/what-we-do/smart-product/rf/).
 
@@ -162,26 +164,27 @@ After defining profiles, you need to configure the profile setup for each profil
    - On your Android device, open the SMART RF PLUS app.
    - Click on the "Register Device" Button.
 
-   <div style="text-align: center;">
+   <div>
    <img src="./attachments/deviceregistration/Firstview.jpeg" 
-       alt="registerscreen" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
-
 
 - **Scan the QR Code**
    - Use the SMART RF PLUS app to scan the QR code displayed on your profile setup screen.
 
-   <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/scanner.png" 
-       alt="scanner" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+  <img src="./attachments/deviceregistration/scanner.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
 
@@ -198,63 +201,67 @@ After defining profiles, you need to configure the profile setup for each profil
    - On the RF PLUS home screen, select the environment from the dropdown.
    - Click the "Connect" button to initiate the connection.
    
-   <div style="text-align: center;">
-   <img src="./attachments/basicflow/Enviornmental.jpeg" 
-       alt="environment" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+
+   <div>
+  <img src="./attachments/basicflow//Enviornmental.jpeg" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
 - **Login Prompt**
    - Enter the username and password for the selected environment.
    - Ensure the credentials are correct to establish a secure connection.
    
-   <div style="text-align: center;">
-   <img src="./attachments/basicflow/Credentials.jpeg" 
-       alt="login" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+  <img src="./attachments/basicflow/Credentials.jpeg" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
 - **Telnet Session**
    - A telnet session will start, automatically inputting the terminal ID from the QR code along with the login credentials.
    
-   <div style="text-align: center;">
-   <img src="./attachments/basicflow/LoginScreen.jpeg" 
-       alt="telnetlogin" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+  <img src="./attachments/basicflow/LoginScreen.jpeg" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
 - **Access Smart RF PLUS Home Screen**
    - The work information page will be displayed.
    - Enter your work location and warehouse equipment type. 
    
-   <div style="text-align: center;">
-   <img src="./attachments/basicflow/WorkInfo.jpeg" 
-       alt="workinfo" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+  <img src="./attachments/basicflow//WorkInfo.jpeg" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
-
    - The Smart RF undirected menu will then appear. 
 
-
-   <div style="text-align: center;">
-   <img src="./attachments/basicflow/Undirected menu.jpeg" 
+   <div>
+  <img src="./attachments/basicflow/Undirected menu.jpeg" 
        alt="undirectedmenu" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
    - You can now access various features and functionalities of the Smart RF PLUS device.

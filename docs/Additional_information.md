@@ -136,3 +136,16 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   </div>
   
   - Click on the Save button to proceed
+
+
+- **Command Management**
+  - Commands can be securely stored in your environment within the **Les CMD** table.
+  - Ensure that the **Command ID** is referenced in the Additional Information section.
+  - This enhances **Clarity** and **Traceability** of stored commands.
+  
+
+
+
+
+
+

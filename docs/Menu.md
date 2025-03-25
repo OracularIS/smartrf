@@ -3,7 +3,6 @@
 ## Menu
 
 Here we have the following Menu item in our Application
-
 <div>
   <img src="./attachments/Menu/Menu.jpeg" 
        alt="undirectedmenu" 
