@@ -206,25 +206,27 @@ Go to the configuration screen, click on the actions against the profile setup t
    - On your Android device, open the SMART RF PLUS app.
    - Click on the "Register Device" Button.
 
-   <div style="text-align: center;">
+   <div>
    <img src="./attachments/deviceregistration/Firstview.jpeg" 
-       alt="registerscreen" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
 
    - Use the SMART RF PLUS app to scan the QR code displayed on your profile setup screen.
 
-   <div style="text-align: center;">
-  <img src="./attachments/deviceregistration/scanner.png" 
-       alt="scanner" 
-       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
+   <div>
+   <img src="./attachments/deviceregistration/scanner.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
    </div>
 
  
