@@ -138,11 +138,22 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   - Click on the Save button to proceed
 
 
-- **Command Management**
-  - Commands can be securely stored in your environment within the **Les CMD** table.
-  - Ensure that the **Command ID** is referenced in the Additional Information section.
-  - This enhances **Clarity** and **Traceability** of stored commands.
+- **Additional Information Via Remote Server**
+  - Commands can be securely stored in your server within the **Les CMD** table.
+  - Ensure that the **Command ID** is referenced in the **Additional Information** section under **Smart-Apps Field/Form Info**.
   
+  <div style="text-align: center;">
+  <img src="./attachments/additional information/Additionalinforemoteserver.png" 
+       alt="undirectedmenu" 
+       style="height: 200px; width:450px; margin: auto; display: block; cursor: zoom-in; 
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  </div>
+
+  - Commands are executed through the **MOCA Server** and should be properly referenced in the Info section, as shown in the image above.
+  - **Remote command Flag** is **Enabled** as shown in the image above.
+
 
 
 
