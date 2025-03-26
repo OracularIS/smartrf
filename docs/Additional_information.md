@@ -3,7 +3,7 @@
 
 ## **Additional Information**
 
-Smart RF Plus uses the  real estate of the screen to display 
+Smart RF Plus uses the real estate of the screen to display 
 additional data, enhancing the user experience and providing valuable context for warehouse operations.
 
 ### **What is it?**
@@ -73,8 +73,8 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   
    To manage information displayed on forms, use the Form Information Menu. Here, you can define what additional data should appear across the screen.
 
-  - Navigate to the form information menu  on the smart rf plus.
-  - click on the add button from here  
+  - Navigate to the form information menu on the smart rf plus.
+  - Click on the **Add** button from this section.
 
   <div style="text-align: center;">
   <img src="./attachments/additional information/Form_info.png" 
@@ -107,9 +107,9 @@ Smart RF PLUS leverages the extra screen space to show additional information th
 - **Field Information**
   - The Field Information Menu lets you manage data for individual fields within a form.
 
-  - Navigate to the form information menu  on the smart rf plus.
-  - click on the add button from here 
-  
+  - Navigate to the form information menu on the smart rf plus.
+  - Click on the **Add** button from this section.
+
   <div style="text-align: center;">
   <img src="./attachments/additional information/Field_infoi.png" 
        alt="undirectedmenu" 
@@ -141,7 +141,7 @@ Smart RF PLUS leverages the extra screen space to show additional information th
 - **Additional Information Via Remote Server**
   - Commands can be securely stored in your server within the **Les CMD** table.
   - Ensure that the **Command ID** is referenced in the **Additional Information** section under **Smart-Apps Field/Form Info**.
-  
+
   <div style="text-align: center;">
   <img src="./attachments/additional information/Additionalinforemoteserver.png" 
        alt="undirectedmenu" 

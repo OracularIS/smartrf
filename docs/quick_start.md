@@ -252,6 +252,7 @@ After defining profiles, you need to configure the profile setup for each profil
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
   
    </div>
+   
    - The Smart RF undirected menu will then appear. 
 
    <div>
