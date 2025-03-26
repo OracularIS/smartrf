@@ -17,7 +17,7 @@ To use Smart RF Plus, users need to register themselves on the SmartApps platfor
 ## Registering New Devices
 
 To register a new device with SMART RF PLUS, follow these steps:
--  Sign up
+- Sign up
 - Subscribe
 - Profile Group
 - Profile Setup
