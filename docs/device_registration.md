@@ -17,7 +17,7 @@ To use Smart RF Plus, users need to register themselves on the SmartApps platfor
 ## Registering New Devices
 
 To register a new device with SMART RF PLUS, follow these steps:
--  Sign up
+- Sign up
 - Subscribe
 - Profile Group
 - Profile Setup
@@ -29,7 +29,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
 ### **Sign Up on SmartApps**
 
 - **Visit the SmartApps Registration Page**
-   - Go to [SmartApps Registration](https://apps.smart-is.com/register).
+   - Go to the [SmartApps Registration](https://apps.smart-is.com/register).
 
 - **Fill Out Registration Form**
    - Provide the required information such as name, email.
@@ -81,7 +81,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
    </div>
 
 
-- **Product Subsription**
+- **Product Subscription**
    - After Logging in product page will be displayed.
  Select the Smart RF PLUS feature and click subscribe Button.
    <div style="text-align: center;">
@@ -190,7 +190,7 @@ After defining profiles, you need to configure the profile setup for each profil
    </div>
 
 
-Go to the configuration screen, click on the actions against the profile setup that you have created. It will generate the QR code. You can change the termial type.
+Go to the configuration screen and click on the actions against the profile setup that you have created. It will generate the QR code. You can change the termial type.
    
    <div style="text-align: center;">
   <img src="./attachments/deviceregistration/profileqr.png" 
@@ -231,7 +231,7 @@ Go to the configuration screen, click on the actions against the profile setup t
 
  
    - This will automatically register your device with the selected profile setup.
-   - Your profile will be display in the under the environment section of the smart RF Plus home page screen.
+   - Your profile will be displayed under the environment section of the smart RF Plus home page screen.
    
 
 **By following above steps, you can easily register new devices, ensuring they are configured correctly and ready for use with SMART RF PLUS.**

@@ -8,7 +8,7 @@
 - **Search for Smart RF Plus**
    - In the search bar at the top, type "Smart RF Plus" and press enter.
    
-<div>
+   <div>
   <img src="./attachments/gettingrf/Searchrf.png" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
@@ -16,14 +16,14 @@
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
   
-</div>
+   </div>
 
 - **Install the App**
    - From the search results, find the Smart RF Plus app developed by Smart IS.
    - Tap on the app and then tap the "Install" button.
    - The app will download and install on your device.
    
-<div>
+   <div>
   <img src="./attachments/gettingrf/installrf.png" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
@@ -31,7 +31,7 @@
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
   
-</div>
+   </div>
   
 
 - **Open the App**
