@@ -4,7 +4,7 @@ To operate an RF PLUS device, follow these basic steps:
 
 
 - **Connect the Environment**
-   - On the RF PLUS home there will be a dropdown to select the environment.
+   - On the RF PLUS home, there will be a dropdown menu where you can select the environment.
    - Choose the environment for your operations.
 
    - After selecting the environment, click the "Connect" button.

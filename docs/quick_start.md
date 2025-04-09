@@ -1,6 +1,7 @@
 # SMART RF PLUS Quick Start
 
-Welcome to SMART RF PLUS, your comprehensive solution for efficient warehouse operations. This guide will walk you through the steps to register a new device and operate it seamlessly within your environment.
+In this section, we’ll walk you through the steps to quickly set up Smart RF Plus. You'll learn how to get started efficiently and configure it for optimal performance. 
+
 ## Prerequisite
 
 - **MTF Server Task Reservation**

@@ -68,12 +68,12 @@ Smart RF PLUS leverages the extra screen space to show additional information th
 - **Images**
   - Supports the display of images, which can be useful for visual references such as product photos, diagrams, or instructional images.
 
-### **How to mantain Additional information** 
+### **How to maintain Additional information** 
 - **Form Information**
   
    To manage information displayed on forms, use the Form Information Menu. Here, you can define what additional data should appear across the screen.
 
-  - Navigate to the form information menu on the smart rf plus.
+  - Navigate to the form information menu on the Smart RF Plus.
   - Click on the **Add** button from this section.
 
   <div style="text-align: center;">
@@ -87,10 +87,10 @@ Smart RF PLUS leverages the extra screen space to show additional information th
 
 
 
-  - A new screen appears now follow the following steps: 
-    - **Choose App Version** : MOCA Version which is in use
-    - **Choose relevant Form ID** : Form on which you work.
-    - Add **Title**, **Type**, and **Information** you want displayed.
+  - A new screen appears. Now follow the following steps: 
+    - **Choose App Version:**  MOCA Version, which is in use
+    - **Choose relevant Form ID:**  Form on which you work.
+    - Add the **Title**, **Type**, and **Information** you want displayed.
     - You can also arrange the display order by setting a Sort Sequence, ensuring that critical data appears in the right place and in the correct order.
  
   <div style="text-align: center;">
@@ -108,7 +108,7 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   - The Field Information Menu lets you manage data for individual fields within a form.
 
   - Navigate to the form information menu on the smart rf plus.
-  - Click on the **Add** button from this section.
+  - Click on the **Add** button from here.
 
   <div style="text-align: center;">
   <img src="./attachments/additional information/Field_infoi.png" 
@@ -120,10 +120,10 @@ Smart RF PLUS leverages the extra screen space to show additional information th
   </div>
 
    
-  - A new screen appears now follow the following steps:
-    - **Choose the Field ID**:Selects on which field you want to work.
-    - **Choose the App Version**: MOCA Version which is in use.
-    - **Choose Form ID**: Form on which you work.
+  - A new screen appears. Now follow the following steps:
+    - **Choose the Field ID:** Select  which field you want to work on.
+    - **Choose the App Version**: MOCA Version, which is in use.
+    - **Choose Form ID**: The Form on which you work.
     - To link specific information to particular fields by setting the **Title**, **Type**, and **Information**, as well as the **Sort Sequence**.
 
   <div style="text-align: center;">
