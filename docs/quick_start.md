@@ -56,7 +56,7 @@ For detailed instructions, please refer to the [Subscribe to Smart RF PLUS Featu
 Profile groups in Smart RF Plus allow you to organize multiple profiles, each representing a different instance. This helps in managing configurations efficiently.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/profile_group.png" 
+   <img src="./attachments/deviceregistration/Profile Group.png" 
        alt="profile_group" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -72,7 +72,7 @@ Profile groups in Smart RF Plus allow you to organize multiple profiles, each re
 Profiles represent specific instances within a profile group. Each profile can be configured to connect to different environments.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/profile.png" 
+   <img src="./attachments/deviceregistration/Profile.png" 
        alt="profile" 
        style="height: 185px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -204,7 +204,7 @@ After defining profiles, you need to configure the profile setup for each profil
    
 
    <div>
-  <img src="./attachments/basicflow//Enviornmental.jpeg" 
+  <img src="./attachments/basicflow/EnviornmentalView.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -218,7 +218,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Ensure the credentials are correct to establish a secure connection.
    
    <div>
-  <img src="./attachments/basicflow/Credentials.jpeg" 
+  <img src="./attachments/basicflow//Credentials.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -231,7 +231,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - A telnet session will start, automatically inputting the terminal ID from the QR code along with the login credentials.
    
    <div>
-  <img src="./attachments/basicflow/LoginScreen.jpeg" 
+  <img src="./attachments/basicflow//LoginScreen.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -245,7 +245,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - Enter your work location and warehouse equipment type. 
    
    <div>
-  <img src="./attachments/basicflow//WorkInfo.jpeg" 
+  <img src="./attachments/basicflow/Workinfo.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -257,7 +257,7 @@ After defining profiles, you need to configure the profile setup for each profil
    - The Smart RF undirected menu will then appear. 
 
    <div>
-  <img src="./attachments/basicflow/Undirected menu.jpeg" 
+  <img src="./attachments/basicflow/UndirectedMenu.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
