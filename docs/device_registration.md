@@ -134,7 +134,7 @@ Smart RF PLUS allows users to create and manage profile groups, which organize m
    - Save the profile group.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/Profile Group.png" 
+   <img src="./attachments/deviceregistration/ProfileGroup.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
