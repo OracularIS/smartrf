@@ -134,7 +134,7 @@ Smart RF PLUS allows users to create and manage profile groups, which organize m
    - Save the profile group.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/profile_group.png" 
+   <img src="./attachments/deviceregistration/Profile Group.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -157,7 +157,7 @@ Once you have created a profile group, you can define profiles within that group
    - Save the profile.
    
    <div style="text-align: center;">
-  <img src="./attachments/deviceregistration/profile.png" 
+  <img src="./attachments/deviceregistration/Profile.png" 
        alt="configuration" 
        style="height: 180px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -207,7 +207,7 @@ Go to the configuration screen and click on the actions against the profile setu
    - Click on the "Register Device" Button.
 
    <div>
-   <img src="./attachments/deviceregistration/Firstview.jpeg" 
+   <img src="./attachments/deviceregistration/FirstView.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
