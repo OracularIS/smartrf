@@ -7,6 +7,7 @@
 - **An enhanced experience for the traditional RF users**
   - Smart RF Plus provides a significantly improved user experience for those who are accustomed to traditional RF devices. The application leverages modern technology to make warehouse operations more efficient and user-friendly.
 
+
 - **Utilizes android platform**
   - The application is built on the Android platform, ensuring compatibility with a wide range of modern devices. This choice allows for greater flexibility, ease of use, and access to advanced features available on Android devices.
 
@@ -77,3 +78,22 @@ create rf terminal
 - **Seamless Auto-Population of Terminal ID and User Login Information**
 
   - Our product takes the hassle out of manual input by automatically populating essential fields like Terminal ID and User Login Information directly on the RF screen. When a user connects to the system, the Terminal ID is instantly fetched from the device registration, eliminating the need for repetitive entry and reducing errors. Additionally, the user login information is auto-filled from their profile, ensuring a smooth and efficient onboarding process each time they access the environment.
+
+
+### **Mobile RF**
+
+Another web portal screen utilizes the “Mobile RF” module, which provides a user-friendly, application-style interface. This module is designed to deliver a complete set of functionalities in a streamlined and accessible way, ensuring that users can perform their tasks more efficiently.
+
+- By offering an intuitive layout and smooth navigation, the Mobile RF enhances:
+  - The overall experience
+  - Making complex operations faster, Simpler and more convenient.
+
+<div>
+  <img src="./attachments/Menu/MobileRF.jepg" 
+       alt="undirectedmenu" 
+       style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
+              border: 2px solid #000000; border-radius: 4px;" 
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
+  
+</div>
