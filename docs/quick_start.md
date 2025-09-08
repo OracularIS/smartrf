@@ -56,8 +56,8 @@ For detailed instructions, please refer to the [Subscribe to Smart RF PLUS Featu
 Profile groups in Smart RF Plus allow you to organize multiple profiles, each representing a different instance. This helps in managing configurations efficiently.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/ProfileGroup.png" 
-       alt="profile_group" 
+    <img src="./attachments/deviceregistration/ProfileGroup.png" 
+       alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
@@ -72,8 +72,8 @@ Profile groups in Smart RF Plus allow you to organize multiple profiles, each re
 Profiles represent specific instances within a profile group. Each profile can be configured to connect to different environments.
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/Profile.png" 
-       alt="profile_group" 
+    <img src="./attachments/deviceregistration/Profile.png" 
+       alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 

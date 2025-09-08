@@ -28,7 +28,6 @@ SMART RF PLUS provides intuitive navigation gestures to enhance user experience 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-  
     </div>
 
 - **Camera Access**
@@ -56,7 +55,6 @@ SMART RF PLUS provides intuitive navigation gestures to enhance user experience 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-  
     </div>
 
 - **Voice Control Menu Selection**

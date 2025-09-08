@@ -133,14 +133,14 @@ Smart RF PLUS allows users to create and manage profile groups, which organize m
    - Enter a name for the new profile group.
    - Save the profile group.
 
-   <div style="text-align: center;">
+<div style="text-align: center;">
    <img src="./attachments/deviceregistration/ProfileGroup.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+</div>
 
 
 ## Profiles
@@ -157,12 +157,12 @@ Once you have created a profile group, you can define profiles within that group
    - Save the profile.
    
    <div style="text-align: center;">
-  <img src="./attachments/deviceregistration/Profile.png" 
+   <img src="./attachments/deviceregistration/Profile.png" 
        alt="configuration" 
-       style="height: 180px; margin: auto; display: block; cursor: zoom-in; 
+       style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
-       onclick="this.style.height='360px'; this.style.cursor='zoom-out';" 
-       ondblclick="this.style.height='180px'; this.style.cursor='zoom-in';">
+       onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
+       ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
    </div>
 
 
