@@ -4,7 +4,7 @@
 
 Here we have the following Menu item in our Application
 <div>
-  <img src="./attachments/Menu/Menu.png" 
+  <img src="./attachments/Menu/NewMenu.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -18,7 +18,7 @@ Here we have the following Menu item in our Application
 
 
 <div>
-  <img src="./attachments/Menu/SyncData.png" 
+  <img src="./attachments/Menu/NewSyncData.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -31,7 +31,7 @@ Here we have the following Menu item in our Application
 - From **Field Info** if you want to check the information regarding any field of the current form then you can use this option from the Menu bar.
 
 <div>
-  <img src="./attachments/Menu/FieldInfo.png" 
+  <img src="./attachments/Menu/NewFieldInfo.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -43,7 +43,7 @@ Here we have the following Menu item in our Application
 - From **Preferences** if you want to set output voice control then you can use this option from the Menu bar, by default voice control is set to off.
 
 <div>
-  <img src="./attachments/Menu/Preferences.png" 
+  <img src="./attachments/Menu/NewPreferences.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -56,7 +56,7 @@ Here we have the following Menu item in our Application
 - From **About** if you want to get to know about Application, it's version and enviornment on which it is currently working you can use this option from the Menu bar.
 
 <div>
-  <img src="./attachments/Menu/About.png" 
+  <img src="./attachments/Menu/NewAbout.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -69,7 +69,7 @@ Here we have the following Menu item in our Application
 - From **Help** if you face any difficulty in operating application and you want any assistence or help so that you can use this option from the Menu bar.
 
 <div>
-  <img src="./attachments/Menu/Help.png" 
+  <img src="./attachments/Menu/NewHelp.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -81,7 +81,7 @@ Here we have the following Menu item in our Application
 - From **Exit** if you want to exit or close your Application you can use this option from the Menu Bar and your Application will be exited Successfully and by again logged In you can persue it from there where you lefted it.
 
 <div>
-  <img src="./attachments/Menu/Exit.png" 
+  <img src="./attachments/Menu/NewExit.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 

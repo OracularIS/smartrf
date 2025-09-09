@@ -10,7 +10,7 @@ To operate an RF PLUS device, follow these basic steps:
    - After selecting the environment, click the "Connect" button.
 
    <div>
-  <img src="./attachments/basicflow/EnviornmentalView.jpeg" 
+  <img src="./attachments/basicflow/NewEnviornmentScreen.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -30,7 +30,7 @@ To operate an RF PLUS device, follow these basic steps:
    - Once the login details are entered, the device will establish a connection to the server.
 
    <div>
-  <img src="./attachments/basicflow/Credentials.jpeg" 
+  <img src="./attachments/basicflow/NewCredential.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -43,7 +43,7 @@ To operate an RF PLUS device, follow these basic steps:
    - A telnet session will be started.
    - The device will automatically input (stuff) the terminal ID retrieved from the QR code along with the username and password provided during login.
    <div>
-  <img src="./attachments/basicflow/LoginScreen.jpeg" 
+  <img src="./attachments/basicflow/NewLoginScreen.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -57,7 +57,7 @@ To operate an RF PLUS device, follow these basic steps:
    - After successful authentication and session establishment, the work information page  will be displayed.
 
    <div>
-  <img src="./attachments/basicflow/WorkInfo.jpeg" 
+  <img src="./attachments/basicflow/NewWorkInfo.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -69,7 +69,7 @@ To operate an RF PLUS device, follow these basic steps:
    - User have to enter their work loaction, warehouse equipment type, after setting up this Smart RF undirected menu will be displayed.
 
    <div>
-  <img src="./attachments/basicflow/UndirectedMenu.jpeg" 
+  <img src="./attachments/basicflow/NewUndirectedMenu.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
