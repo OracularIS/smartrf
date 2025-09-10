@@ -126,15 +126,16 @@ Smart RF PLUS allows users to create and manage profile groups, which organize m
 
 - **Navigate to Profile Group Section**
    - Log in to your SmartApps account.
-   - Navigate to the profile group section.
-
+   - Navigate to Profiles from the menu.
+   - The Profile Groups screen will appear
+   
 - **Create a New Profile Group**
    - Click the "Create Profile Group" button.
    - Enter a name for the new profile group.
    - Save the profile group.
 
 <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/ProfileGroup.png" 
+<img src="./attachments/deviceregistration/ProfileGroup.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -151,19 +152,22 @@ Once you have created a profile group, you can define profiles within that group
    - In the profile group section, select the profile group where you want to add profiles.
 
 - **Add a New Profile**
-   - Click the "Add Profile" button.
-   - Enter the profile name and details.
+
+   - Click Add to create a new profile.
+   - Enter the Profile Name and Description.
+   - Paste the Console URL into the required field.
+   - Set the profile to Active.
    - Define the instance associated with this profile.
-   - Save the profile.
+   - Click on Save button to Save the profile.
    
-   <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/Profile.png" 
+<div style="text-align: center;">
+<img src="./attachments/deviceregistration/Profile.png" 
        alt="configuration" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-   </div>
+</div>
 
 
 ## Profile Setup
@@ -207,7 +211,7 @@ Go to the configuration screen and click on the actions against the profile setu
    - Click on the "Register Device" Button.
 
    <div>
-   <img src="./attachments/deviceregistration/FirstView.jpeg" 
+   <img src="./attachments/basicflow//NewFirstView.jpeg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
