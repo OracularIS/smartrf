@@ -161,13 +161,13 @@ Once you have created a profile group, you can define profiles within that group
    - Click on Save button to Save the profile.
    
 <div style="text-align: center;">
-<img src="./attachments/deviceregistration/Profile.png" 
-       alt="configuration" 
+   <img src="./attachments/deviceregistration/NEWProfile.png" 
+       alt="profile_setup" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
        onclick="this.style.height='400px'; this.style.cursor='zoom-out';" 
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
-</div>
+   </div>
 
 
 ## Profile Setup
