@@ -8,9 +8,10 @@ In this section, we’ll walk you through the steps to quickly set up Smart RF P
   - Reserve a task for Smart RF Plus (existing or new).
 
 - **Server Configurations**
-  - Specify the MTF protocol (SSH or Telnet):
+  - Specify the MTF protocol (SSH, Telnet and Mobile RF):
     - For Telnet: `-N Telnet`
     - For SSH: `-N SSH`
+    - For Mobile RF: `-N SSH2`
   - Add debug parameters: `-G22,1`
 
 ## Install the Smart RF Plus Application
@@ -126,7 +127,7 @@ After defining profiles, you need to configure the profile setup for each profil
 
 
    <div style="text-align: center;">
-   <img src="./attachments/deviceregistration/profile_setup.png" 
+   <img src="./attachments/deviceregistration/New_profile_setup.png" 
        alt="profile_setup" 
        style="height: 200px; margin: auto; display: block; cursor: zoom-in; 
               border: 2px solid #000000; border-radius: 4px;" 
@@ -195,7 +196,6 @@ For detailed instructions, please refer to the [Profile Setup Details](device_re
 - **Connect the Environment**
    - On the RF PLUS home screen, Select the desired Environment.
    - Click the "Connect" button to initiate the connection.
-   
 
    <div>
    <img src="./attachments/basicflow/NewEnviornmentScreen.jpeg" 
