@@ -18,8 +18,9 @@
 
 - **Determining device ID and terminal ID through device hardware settings**
   - The app determines the device ID and terminal ID by accessing the hardware settings of the device. This automatic identification process simplifies device registration and management.
+
 - **Showing additional information**
-  - Smart RF Plus allows for the display of additional information on the RF screens. This can include data from BY sources or external databases, enhancing the user experience with more comprehensive and useful information.
+  - Smart RF Plus allows for the display of additional information on the Smart RF Plus screens. This can include data from BY sources or external databases, enhancing the user experience with more comprehensive and useful information.
 
 ### **What does it need on the server?**
 
@@ -30,6 +31,7 @@
   - In your task you should specify the Mtf protocol Like SSH or telnet.
    - For telnet Add -N Telnet.
    - For SSH Add -N SSH.
+   - For Mobile RF: -N SSH2
   - In your task Add the G parameters (-G22,1) for the debug row.
 
 
@@ -77,7 +79,7 @@ create rf terminal
 
 - **Seamless Auto-Population of Terminal ID and User Login Information**
 
-  - Our product takes the hassle out of manual input by automatically populating essential fields like Terminal ID and User Login Information directly on the RF screen. When a user connects to the system, the Terminal ID is instantly fetched from the device registration, eliminating the need for repetitive entry and reducing errors. Additionally, the user login information is auto-filled from their profile, ensuring a smooth and efficient onboarding process each time they access the environment.
+  - Smart RF Plus takes the hassle out of manual input by automatically populating essential fields like Terminal ID and User Login Information directly on the Smart RF Plus screen. When a user connects to the system, the Terminal ID is instantly fetched from the device registration, eliminating the need for repetitive entry and reducing errors. Additionally, the user login information is auto-filled from their profile, ensuring a smooth and efficient onboarding process each time they access the environment.
 
 
 ### **Mobile RF**

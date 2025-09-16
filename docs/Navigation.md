@@ -1,4 +1,4 @@
-# SMART RF PLUS Features
+# Smart RF Plus Features
 
 ## **Navigation**
 
@@ -46,7 +46,7 @@ SMART RF PLUS provides intuitive navigation gestures to enhance user experience 
 
 - **Function Keys**
 
-    - **Swipe from Left**: Swiping right from the left edge of the screen will reveal the function keys. These keys provide quick access to various functions and shortcuts for the Rf devices within the SMART RF PLUS application, improving workflow efficiency.
+    - **Swipe from Left**: Swiping right from the left edge of the screen will reveal the function keys. These keys provide quick access to various functions and shortcuts for the Rf devices within the Smart RF Plus application, improving workflow efficiency.
 
     <div>
     <img src="./attachments/Navigations/NewFunctionalFeature.jpeg" 

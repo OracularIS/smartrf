@@ -1,4 +1,4 @@
-# SMART RF PLUS Features
+# Smart RF Plus Features
 
 
 ## **Additional Information**
@@ -8,7 +8,7 @@ additional data, enhancing the user experience and providing valuable context fo
 
 ### **What is it?**
 
-Smart RF PLUS leverages the extra screen space to show additional information that can assist users in making informed decisions. This feature enhances the utility of the app by presenting relevant data alongside the primary functions.
+Smart RF Plus leverages the extra screen space to show additional information that can assist users in making informed decisions. This feature enhances the utility of the app by presenting relevant data alongside the primary functions.
 
 ### **Types**
 
@@ -102,7 +102,7 @@ Smart RF PLUS leverages the extra screen space to show additional information th
        ondblclick="this.style.height='200px'; this.style.cursor='zoom-in';">
   </div>
   
-  - Click on the save button to proceed
+  - Click on the Save button to proceed
 ### 
 - **Field Information**
   - The Field Information Menu lets you manage data for individual fields within a form.

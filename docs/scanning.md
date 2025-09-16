@@ -1,4 +1,4 @@
-# SMART RF PLUS Features
+# Smart RF Plus Features
 
 
 ## **Scanning**
@@ -20,7 +20,7 @@ Smart RF PLUS supports efficient scanning functionalities to streamline warehous
 ### **Swipe from Right for Camera Scanning**
 
 - **Step-by-Step Guide**:
-  - Open the Smart RF PLUS app on your Android device.
+  - Open the Smart RF Plus app on your Android device.
   - Swipe left from the right edge of the screen to open the camera interface.
   - Position the barcode or QR code within the camera frame.
   - The app will automatically detect and scan the code, displaying the relevant information on the screen.
