@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Smart Apps Setup for Smart RF PLUS involves defining the necessary MTF  parameters to ensure smooth operation. This setup includes the execution of a script to create up to 5,000 devices, identified by IDs ranging from SM00001 to SM05000. By pre-creating these device IDs, the system avoids frequent task restarts, streamlining the registration process and ensuring efficient device management.
+The Smart Apps Setup for Smart RF Plus involves defining the necessary MTF  parameters to ensure smooth operation. This setup includes the execution of a script to create up to 5,000 devices, identified by IDs ranging from SM00001 to SM05000. By pre-creating these device IDs, the system avoids frequent task restarts, streamlining the registration process and ensuring efficient device management.
 
-### **Enabling Smart RF PLUS**
+### **Enabling Smart RF Plus**
 
-To use Smart RF Plus, users need to register themselves on the SmartApps platform and subscribe to the Smart RF PLUS feature. Follow these steps:
+To use Smart RF Plus, users need to register themselves on the SmartApps platform and subscribe to the Smart RF Plus feature. Follow these steps:
 
 - **Register on SmartApps**:
    - Visit the [SmartApps Registration Page](https://apps.smart-is.com/).
@@ -16,7 +16,7 @@ To use Smart RF Plus, users need to register themselves on the SmartApps platfor
 
 ## Registering New Devices
 
-To register a new device with SMART RF PLUS, follow these steps:
+To register a new device with Smart RF Plus, follow these steps:
 - Sign up
 - Subscribe
 - Profile Group
@@ -24,7 +24,7 @@ To register a new device with SMART RF PLUS, follow these steps:
 
 ## Sign Up and Subscribe
 
-Before setting up profile groups, users need to sign up for SmartApps and subscribe to the Smart RF PLUS feature.
+Before setting up profile groups, users need to sign up for SmartApps and subscribe to the Smart RF Plus feature.
 
 ### **Sign Up on SmartApps**
 
@@ -113,14 +113,12 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
 
 
 
-- **Subscribe to Smart RF PLUS**:
-   - After subscribing Smart Rf plus feature will appear in your menu
-
-
+- **Subscribe to Smart RF Plus**:
+   - After subscribing Smart RF Plus feature will appear in your menu
 
 ## Profile Group 
 
-Smart RF PLUS allows users to create and manage profile groups, which organize multiple profiles for different instances. This section outlines how to set up profile groups, define profiles, and configure profile setups.
+Smart RF Plus allows users to create and manage profile groups, which organize multiple profiles for different instances. This section outlines how to set up profile groups, define profiles, and configure profile setups.
 
 ### **Creating a Profile Group**
 
@@ -206,8 +204,8 @@ Go to the configuration screen and click on the actions against the profile setu
    </div>
 
 
-- **Open the SMART RF PLUS App on Your Android Device**
-   - On your Android device, open the SMART RF PLUS app.
+- **Open the Smart RF Plus App on Your Android Device**
+   - On your Android device, open the Smart RF Plus app.
    - Click on the "Register Device" Button.
 
    <div>
@@ -221,7 +219,7 @@ Go to the configuration screen and click on the actions against the profile setu
    </div>
 
 
-   - Use the SMART RF PLUS app to scan the QR code displayed on your profile setup screen.
+   - Use the Smart RF Plus app to scan the QR code displayed on your profile setup screen.
 
    <div>
    <img src="./attachments/deviceregistration/scanner.png" 
@@ -235,7 +233,7 @@ Go to the configuration screen and click on the actions against the profile setu
 
  
    - This will automatically register your device with the selected profile setup.
-   - Your profile will be displayed under the environment section of the smart RF Plus home page screen.
+   - Your profile will be displayed under the environment section of the Smart RF Plus home page screen.
    
 
-**By following above steps, you can easily register new devices, ensuring they are configured correctly and ready for use with SMART RF PLUS.**
+By following above steps, you can easily register new devices, ensuring they are configured correctly and ready for use with Smart RF Plus.

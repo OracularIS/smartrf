@@ -6,7 +6,7 @@
    - On your Android device, open the Google Play Store app.
 
 - **Search for Smart RF Plus**
-   - In the search bar at the top, type "Smart RF Plus" and press enter.
+   - In the search bar at the Screen, type "Smart RF Plus" and press enter.
    
    <div>
   <img src="./attachments/gettingrf/Searchrf.png" 

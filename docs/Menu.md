@@ -1,4 +1,4 @@
-# SMART RF PLUS MENU
+# Smart RF Plus MENU
 
 ## Menu
 

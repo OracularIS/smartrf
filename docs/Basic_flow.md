@@ -1,16 +1,14 @@
 # Smart RF Plus Basic flow
 
-To operate an RF PLUS device, follow these basic steps:
-
+To operate an Smart RF Plus device using Mobile RF, follow these basic steps:
 
 - **Connect the Environment**
-   - On the RF PLUS home, there will be a dropdown menu where you can select the environment.
+   - On the Smart RF Plus home, there will be a dropdown menu where you can select the environment.
    - Choose the environment for your operations.
-
    - After selecting the environment, click the "Connect" button.
 
    <div>
-  <img src="./attachments/basicflow/NewEnviornmentScreen.jpeg" 
+  <img src="./attachments/basicfloW/RFMOBILEENVIONMENT.jpg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -43,7 +41,7 @@ To operate an RF PLUS device, follow these basic steps:
    - A telnet session will be started.
    - The device will automatically input (stuff) the terminal ID retrieved from the QR code along with the username and password provided during login.
    <div>
-  <img src="./attachments/basicflow/NewLoginScreen.jpeg" 
+  <img src="./attachments/basicflow/NEWRFMOBILELOGIN.jpg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -53,11 +51,11 @@ To operate an RF PLUS device, follow these basic steps:
 
    - This process ensures that the session is correctly authenticated and associated with the specific device and user.
 
-- **Access Smart RF PLUS Home Screen**
+- **Access Smart RF Plus Home Screen**
    - After successful authentication and session establishment, the work information page  will be displayed.
 
    <div>
-  <img src="./attachments/basicflow/NewWorkInfo.jpeg" 
+  <img src="./attachments/basicflow/RFMOBILEWORKINFO.jpg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -66,10 +64,10 @@ To operate an RF PLUS device, follow these basic steps:
   
    </div>
 
-   - User have to enter their work loaction, warehouse equipment type, after setting up this Smart RF undirected menu will be displayed.
+   - User have to enter their work loaction, warehouse equipment type, after setting up this Smart RF Plus undirected menu will be displayed.
 
    <div>
-  <img src="./attachments/basicflow/NewUndirectedMenu.jpeg" 
+  <img src="./attachments/basicflow/RFMOBILEUNDIRECTEDMENU.jpg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
@@ -78,4 +76,6 @@ To operate an RF PLUS device, follow these basic steps:
   
    </div>
 
-   - Users can now access the various features and functionalities of the Smart RF PLUS device, streamlining their warehouse operations.
+   - Users can now access the various features and functionalities of the Smart RF Plus device, streamlining their warehouse operations.
+
+For details on how to connect on Telnet, click [here](quick_start.md#connecting-to-the-environment).
