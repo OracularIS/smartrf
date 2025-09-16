@@ -8,7 +8,7 @@ To operate an Smart RF Plus device using Mobile RF, follow these basic steps:
    - After selecting the environment, click the "Connect" button.
 
    <div>
-  <img src="./attachments/basicfloW/RFMOBILEENVIONMENT.jpg" 
+  <img src="./attachments/basicflow/RFMOBILEENVIONMENT.jpg" 
        alt="undirectedmenu" 
        style="height: 200px; margin-right: 10px; cursor: zoom-in; margin-left: 50px;
               border: 2px solid #000000; border-radius: 4px;" 
