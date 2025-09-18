@@ -1,12 +1,12 @@
 # Smart RF Plus Documentation
-## **Overview**
+## Overview
 
-### **Introduction**
+### Introduction
 
 
 Smart RF Plus is a comprehensive RF solution designed to enhance JDA/Blue Yonder (BY) WMS implementations. This application is tailored to optimize the functionality of physical devices used on the warehouse floor, facilitating seamless execution of various warehouse operations. Developed by Smart IS, the Smart RF Plus app integrates smoothly with the standard JDA/BY solution, offering support for both delivered and custom RF screens without requiring additional work.
 
-### **Main Features**
+### Main Features
 
 - **Smart RF Plus Screen Functionality:**
 Smart RF Plus enhances the standard RF screens by rendering function keys as buttons. This improves user interaction and makes the interface more intuitive and user-friendly. The streamlined design ensures that warehouse operations can be performed more efficiently, reducing the learning curve for new users.
@@ -20,7 +20,7 @@ Smart RF Plus is designed with a simplified deployment architecture for enterpri
 - **Device Integration:**
 The app simplifies the process of adding new devices, allowing for quick integration into the existing system. This feature reduces the complexity and time required for onboarding new devices, ensuring that warehouse operations can continue smoothly with minimal interruptions. The streamlined device integration process supports operational flexibility and agility.
 
-###  **Value Proposition**
+###  Value Proposition
 
 - **Builds on Existing BY Solution:**
  Smart RF Plus enhances and extends the functionality of your existing Blue Yonder (BY) solution. By building on the robust foundation of BY, it ensures continuity and leverages the strengths of the established system, making the transition seamless and efficient.
