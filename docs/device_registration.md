@@ -4,7 +4,7 @@
 
 The Smart Apps Setup for Smart RF Plus involves defining the necessary MTF  parameters to ensure smooth operation. This setup includes the execution of a script to create up to 5,000 devices, identified by IDs ranging from SM00001 to SM05000. By pre-creating these device IDs, the system avoids frequent task restarts, streamlining the registration process and ensuring efficient device management.
 
-### **Enabling Smart RF Plus**
+### Enabling Smart RF Plus
 
 To use Smart RF Plus, users need to register themselves on the SmartApps platform and subscribe to the Smart RF Plus feature. Follow these steps:
 
@@ -26,7 +26,7 @@ To register a new device with Smart RF Plus, follow these steps:
 
 Before setting up profile groups, users need to sign up for SmartApps and subscribe to the Smart RF Plus feature.
 
-### **Sign Up on SmartApps**
+### Sign Up on SmartApps
 
 - **Visit the SmartApps Registration Page**
    - Go to the [SmartApps Registration](https://apps.smart-is.com/register).
@@ -67,7 +67,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
 
    - Add Username and Password for login.
 
-### **Subscribe to Smart RF PLUS Feature**
+### Subscribe to Smart RF PLUS Feature
 
 - **Log In to SmartApps**
    - Log in to your SmartApps account with your credentials.
@@ -120,7 +120,7 @@ Before setting up profile groups, users need to sign up for SmartApps and subscr
 
 Smart RF Plus allows users to create and manage profile groups, which organize multiple profiles for different instances. This section outlines how to set up profile groups, define profiles, and configure profile setups.
 
-### **Creating a Profile Group**
+### Creating a Profile Group
 
 - **Navigate to Profile Group Section**
    - Log in to your SmartApps account.
