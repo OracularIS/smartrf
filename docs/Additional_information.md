@@ -1,16 +1,16 @@
 # Smart RF Plus Features
 
 
-## **Additional Information**
+## Additional Information
 
 Smart RF Plus uses the real estate of the screen to display 
 additional data, enhancing the user experience and providing valuable context for warehouse operations.
 
-### **What is it?**
+### What is it?
 
 Smart RF Plus leverages the extra screen space to show additional information that can assist users in making informed decisions. This feature enhances the utility of the app by presenting relevant data alongside the primary functions.
 
-### **Types**
+### Types
 
 - **MOCA Command**
   - Displays results or outputs from MOCA commands directly on the screen. This allows users to see real-time data and responses from the system.
@@ -103,8 +103,7 @@ Smart RF Plus leverages the extra screen space to show additional information th
   </div>
   
   - Click on the Save button to proceed
-### 
-- **Field Information**
+### Field Information
   - The Field Information Menu lets you manage data for individual fields within a form.
 
   - Navigate to the form information menu on the smart rf plus.

@@ -1,6 +1,6 @@
 # Smart RF Plus Features
 
-## **Navigation**
+## Navigation
 
 SMART RF PLUS provides intuitive navigation gestures to enhance user experience and efficiency. Below are the key navigation features:
 

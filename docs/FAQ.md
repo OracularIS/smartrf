@@ -1,6 +1,6 @@
 # Smart RF Plus FAQ
 
-## **FAQ**
+## FAQ
 
  **1. What is an MTF server, and why is it required for Smart RF Plus?**
 An MTF server is a middleware component that facilitates communication between Smart RF Plus and the backend systems. It enables seamless execution of tasks and ensures efficient operation of RF devices within the warehouse.
