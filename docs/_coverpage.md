@@ -1,4 +1,4 @@
-<img src="./attachments/RF Plus final logo-01.png" alt="Image description" height="80" style="object-fit: cover;">
+<img src="./attachments/RF Plus final logo-01.png" alt="Image description" height="280" style="object-fit: cover;">
 
 - **Taking your RF screens to the next level** 
 
